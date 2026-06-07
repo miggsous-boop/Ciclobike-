@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Ciclocar",
+  "description": "Gestão de estoque profissional e em tempo real com controle de produtos, histórico de movimentações e gerenciamento de equipe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
